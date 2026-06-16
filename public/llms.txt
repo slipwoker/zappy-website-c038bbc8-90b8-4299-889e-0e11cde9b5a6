@@ -1,0 +1,109 @@
+# המבחר — Generative Engine Optimization Map
+
+> A general e-commerce store offering a wide variety of products including toys, dolls, clothing, and more. The store aims to be a one-stop shop for diverse consumer goods, similar to a marketplace or general online retail store.
+
+---
+
+## Pages
+
+### בית
+https://-c038bbc8.zappy5.app
+ברוכים הבאים להמבחר – החנות שנותנת לכם את כלללל המבחר במקום אחד! צעצועים, בובות, ביגוד ועוד במחירים שווים. היכנסו עכשיו וגלו את הקנייה המושלמת שמחכה לכם.
+
+### קולקציות ואירועים
+https://-c038bbc8.zappy5.app/collections-occasions
+מחפשים מתנה לאירוע מיוחד? אצלנו תמצאו קולקציות מעוצבות לכל חגיגה – עם כלללל המבחר שתמיד חלמתם עליו. הכנסו עכשיו ובחרו את המתנה שתגנוב את ההצגה!
+
+### אודות
+https://-c038bbc8.zappy5.app/about
+המבחר נולדה כדי להביא לכם חוויית קנייה אחרת – עם דגש על איכות, שירות אישי ומחירים הוגנים. קראו עוד על הדרך שלנו להפוך כל רכישה לחוויה מנצחת.
+
+### צור קשר
+https://-c038bbc8.zappy5.app/contact
+יש שאלה על מוצר? צריכים עזרה בבחירה? צוות המומחים שלנו כאן כדי לתת לכם את כלללל המבחר עם חיוך. השאירו פרטים ונחזור אליכם במהירות עם הפתרון הטוב ביותר.
+
+### Products
+https://-c038bbc8.zappy5.app/products
+המוצרים שלנו - המבחר
+
+### Cart
+https://-c038bbc8.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-c038bbc8.zappy5.app/checkout
+תשלום
+
+### Login
+https://-c038bbc8.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-c038bbc8.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-c038bbc8.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-c038bbc8.zappy5.app/product/:slug
+פרטי המוצר - המבחר
+
+### Category
+https://-c038bbc8.zappy5.app/category/:slug
+מוצרים - המבחר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c038bbc8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c038bbc8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c038bbc8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המבחר
+A general e-commerce store offering a wide variety of products including toys, dolls, clothing, and more. The store aims to be a one-stop shop for diverse consumer goods, similar to a marketplace or general online retail store.
+
+## Services/Products
+- בובות
+- משחקים
+- בגדים
+- מוצרים מגוונים
+
+## Target Audience
+- הורים רוכשי צעצועים
+- מבוגרים צעירים עם מודעות לאופנה
+- רוכשי מתנות
+- חובבי קניות אונליין
+- אספנים וחובבי תחביבים
+- רהיטים לצעירים שעוברים לגור ביחד
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c038bbc8.zappy5.app/sitemap.xml
+- Robots: https://-c038bbc8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c038bbc8.zappy5.app/llms-full.txt
+- Products (JSON): https://-c038bbc8.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-c038bbc8.zappy5.app/product-feed.xml
